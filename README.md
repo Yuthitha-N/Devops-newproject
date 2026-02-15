@@ -80,7 +80,11 @@ Built Docker image.
 
 Ran container with port mapping.
 
+<<<<<<< HEAD
 Verified application using browser.
+=======
+Verified application using browser (http://IP:PORT).
+>>>>>>> 17a39af (Add project overview and setup instructions to README)
 
 Fixed blank page issues and debugging.
 
@@ -149,4 +153,7 @@ Process monitoring.
 Networking commands.
 
 Firewall configuration.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 17a39af (Add project overview and setup instructions to README)
