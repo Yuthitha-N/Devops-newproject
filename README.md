@@ -80,7 +80,7 @@ Built Docker image.
 
 Ran container with port mapping.
 
-Verified application using browser (http://IP:PORT).
+Verified application using browser.
 
 Fixed blank page issues and debugging.
 
